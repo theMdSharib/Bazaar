@@ -1,10 +1,15 @@
 # Bazaar_app
 
 • Developed a full-fledged E-Commerce shopping application whereby users can login and can add the desired products to their cart.
+
 • New Users can also create new account which is then registered as new entry in Firebase.
+
 • This application also allows users to add and manage their respective product and with that other users can also view and add that product to their cart.
-• Used packages such as- http, intl, shared preferences, provider
+
+• Used packages such as- http, intl, shared preferences, provider.
+
 • Used Dart and Flutter for Designing and Developing.
+
 • Used Firebase as Back-End.
 
 ## Getting Started
